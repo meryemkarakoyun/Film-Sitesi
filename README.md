@@ -22,6 +22,5 @@ This project is a movie and series-focused web interface. Users can view popular
   
 ## 📸 Demo
 
-![Movie Website Demo](./demo.gif)  
-*(Add your project GIF or screenshot here)*  
+
 
